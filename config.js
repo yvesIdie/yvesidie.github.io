@@ -28,7 +28,7 @@ window.LINKHUB = {
       links: [
         { icon: "github",  label: "GitHub",  url: "https://github.com/yvesidie" },
         { icon: "x",       label: "X",       url: "https://x.com/yvesyvev" },
-        { icon: "spotify", label: "Spotify", url: "https://open.spotify.com/user/317et7lrh3kseuzfjtnhqqyqh7my" },
+        { icon: "spotify", label: "Spotify", url: "https://open.spotify.com/user/31zbzvjnqk6ppvycqriazhokliyu" },
       ],
     },
     {
